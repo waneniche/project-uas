@@ -1,0 +1,3 @@
+java
+Data setelah diurutkan (besar ke kecil):
+[78, 67, 66, 45, 32, 17, 12, 10, 9, 5]
